@@ -4,7 +4,7 @@ Educational project for the course Introduction to Finance. Not a real product, 
 
 A small smart contract, `ReceivableRegistry`, for the startup idea FactorChain: a shared registry that stops one invoice from being financed twice.
 
-**Demo video:** [add link]
+**Demo video:** https://drive.google.com/file/d/18ZibwZyvgvfqADitApYC466DWZ8S8whv/view?usp=sharing
 
 ## What it does
 
